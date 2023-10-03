@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289325643723",
+    "project_id": "hosene-hotel",
+    "storage_bucket": "hosene-hotel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289325643723:android:b099971232b3be1a58e84e",
+        "android_client_info": {
+          "package_name": "com.example.hosenehotel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfjdQbbwWOsiiOfJxa3DVCAy4FDjEKF0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
